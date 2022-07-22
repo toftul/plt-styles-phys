@@ -1,4 +1,4 @@
-# plt-styles-pro
+# plt-styles-phys
 Publication ready plots in python (physics)
 
 Can be loaded as simplte as
