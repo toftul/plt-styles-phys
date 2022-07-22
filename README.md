@@ -21,6 +21,11 @@ plt.style.use('<FILENAME>.mplstyle')
 
 ## Examples
 
+### Default
 ![Default](./figs/fig3.png)
+
+### Computer moder font (default $\LaTeX$ font)
 ![Computer modern](./figs/fig1.png)
+
+### Good sans font (ideal for presentations)
 ![Improved sans](./figs/fig2.png)
