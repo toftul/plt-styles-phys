@@ -40,3 +40,7 @@ legend.framealpha: 0.45
 legend.fancybox : False
 #legend.shadow: True
 legend.edgecolor : 1.0
+
+# colormaps
+image.aspect': 'auto'
+image.cmap': 'inferno'
