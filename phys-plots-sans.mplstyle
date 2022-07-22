@@ -9,3 +9,17 @@ axes.prop_cycle : cycler('color', ['4C72B0', '55A868', 'C44E52', '8172B2', 'CCB9
 
 # default but rearranged
 #axes.prop_cycle : cycler('color', ['1f77b4', 'd62728', 'ff7f0e', '2ca02c',  '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+
+
+
+xtick.direction : in
+xtick.major.width : 2
+xtick.top: True
+
+ytick.direction : in
+ytick.major.width : 2
+ytick.right: True
+
+
+
+        
