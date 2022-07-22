@@ -1,22 +1,42 @@
+## font settings
 font.size : 18
 text.usetex : True
 font.family : serif 
 font.serif  : cm
 axes.xmargin : 0
-lines.linewidth : 3
 
+## colors
 # seaborn deep palette
 axes.prop_cycle : cycler('color', ['4C72B0', '55A868', 'C44E52', '8172B2', 'CCB974', '64B5CD'])
 
 # default but rearranged
 #axes.prop_cycle : cycler('color', ['1f77b4', 'd62728', 'ff7f0e', '2ca02c',  '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
 
+
+# Tick properties
+# x-axis
+xtick.top: True
+xtick.direction: in
+xtick.major.size: 5
+xtick.major.width: 1.5
+xtick.minor.size: 3
+xtick.minor.width: 1
+
+# y-axis
+ytick.right: True
+ytick.direction: in
+ytick.major.size: 5
+ytick.major.width: 1.5
+ytick.minor.size: 3
+ytick.minor.width: 1
+
+## ticks and lines
+lines.linewidth : 3
 axes.linewidth : 1.5
 
-xtick.direction : in
-xtick.major.width : 1.5
-xtick.top: True
-
-ytick.direction : in
-ytick.major.width : 1.5
-ytick.right: True
+## Legend properties
+legend.framealpha: 0.45
+#legend.frameon: False
+legend.fancybox : False
+#legend.shadow: True
+legend.edgecolor : 1.0

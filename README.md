@@ -18,6 +18,10 @@ Or you are free to download these style files, change and use as
 ```python
 plt.style.use('<FILENAME>.mplstyle')
 ```
+More to look at:
+- https://matplotlib.org/stable/tutorials/introductory/customizing.html
+- https://github.com/venkatesannaveen/python-science-tutorial
+
 
 ## Examples
 
