@@ -1,5 +1,6 @@
 ## fonts
-font.family : Helvetica
+#font.family : Helvetica
+font.family : Avenir
 font.size : 18
 
 
