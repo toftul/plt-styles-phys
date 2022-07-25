@@ -42,5 +42,5 @@ legend.fancybox : False
 legend.edgecolor : 1.0
 
 # colormaps
-image.aspect': 'auto'
-image.cmap': 'inferno'
+image.aspect: 'auto'
+image.cmap: 'inferno'
