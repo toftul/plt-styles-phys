@@ -1,5 +1,5 @@
 ## font settings
-font.size : 16
+font.size : 14
 text.usetex : True
 font.family : serif 
 font.serif  : cm
@@ -31,7 +31,7 @@ ytick.minor.size: 3
 ytick.minor.width: 1
 
 ## ticks and lines
-lines.linewidth : 3
+lines.linewidth : 2
 axes.linewidth : 1.5
 
 ## Legend properties

@@ -1,7 +1,7 @@
 ## fonts
 #font.family : Helvetica
 #font.family : Avenir
-font.size : 16
+font.size : 14
 
 
 ## colors
@@ -25,13 +25,13 @@ xtick.minor.width: 1.5
 ytick.right: True
 ytick.direction: in
 ytick.major.size: 6
-ytick.major.width: 2
+ytick.major.width: 1.5
 ytick.minor.size: 5
 ytick.minor.width: 1.5
 
 ## ticks and lines
-lines.linewidth : 3
-axes.linewidth : 2
+lines.linewidth : 2
+axes.linewidth : 1.5
 axes.xmargin : 0
 
 ## Legend properties
